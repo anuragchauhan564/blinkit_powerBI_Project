@@ -50,4 +50,4 @@
         Objective : Provide a comprehensive viwe of all key total sales broken down by different outlet and item types.
         Chat Type : Decomposition tree
 
-[![Watch the video](blinkit.mp4)
+![Watch the video](blinkit.mp4)
